@@ -12,10 +12,10 @@ $noIncludeFiles = ['.','..','init.php','fastQuery.php'];
             // 主机地址
             'hostname' => 'localhost',
             // 用户名
-            'username' => 'root',
-            'password' => '44e1ca802506a97d',
+            'username' => 'xxxx',
+            'password' => 'xxxxx',
             // 数据库名
-            'database' => 'chat-server',
+            'database' => 'xxxxx',
             'hostport'=>3306,
             // 数据库编码默认采用utf8
             'charset'  => 'utf8',
