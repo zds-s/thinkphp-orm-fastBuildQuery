@@ -1,0 +1,24 @@
+{
+    "name": "death_satan/think-orm-utils",
+    "description": "ThinkPHP6.x ORM Utils library",
+    "type": "library",
+    "require": {
+        "php": ">=8.1",
+        "topthink/think-orm": "^3.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DeathSatan\\ThinkOrmUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeathSatan",
+            "email": "2771717608@qq.com"
+        }
+    ]
+}
